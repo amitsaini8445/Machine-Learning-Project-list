@@ -1,6 +1,4 @@
-# Machine-Learning-Project-list
-
-Advanced House price prediction machine learning project:
+# Advanced House price prediction machine learning project:
 
 All the Lifecycle for the project :
 
@@ -10,7 +8,7 @@ All the Lifecycle for the project :
 4. Model building
 
 
- Data Analysis :
+ ## Data Analysis :
 
  1.1  Missing value
  1.2  All the numerical value
