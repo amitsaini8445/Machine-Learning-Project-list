@@ -9,7 +9,8 @@ All the Lifecycle for the project :
 3. Feature selection
 4. Model building
 
-1. Data Analysis :
+
+ 1. Data Analysis :
 
  1.1 Missing value
  1.2 All the numerical value
