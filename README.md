@@ -16,4 +16,4 @@ All the Lifecycle for the project :
  1.4  categorical varaible
  1.5  cardinality variable
  1.6  Outliers
- 1.7  relationship between independent and dependent feature
+ 1. relationship between independent and dependent feature
