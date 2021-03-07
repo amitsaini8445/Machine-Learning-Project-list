@@ -1,6 +1,6 @@
 # Machine-Learning-Project-list
 - In this Repository, I have uploaded many project . 
--- Houce price prediction 
--- titanic prediction
--- iris classification
--- wine quality prediction
+1.  Houce price prediction 
+2. titanic prediction
+3.  iris classification
+4.  wine quality prediction
