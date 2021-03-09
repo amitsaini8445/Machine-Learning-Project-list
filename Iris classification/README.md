@@ -31,9 +31,21 @@ To visualize the model , I use the seaborn and matplotlib library which  are use
 These types of plotting I use in this data
 
 ## Machine Learning Model
+Python library are used for machine learning model (sklearn)
 1. Logistic Regression
 2. KNN Classification
 3. Decision Tree classifier
 4. Support vector machine
 5. Random Forest Classification
+
+## Evaluation of the Matrix for classification
+Before using it I will import the sklearn library with metrics module 
+1. Classification accuracy
+2. Confusion matrix
+3. mean absolute error
+4. mean square error
+5. f1 score 
+6. Classification report 
+
+
 
